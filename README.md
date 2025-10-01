@@ -25,7 +25,6 @@
 
 ---
 
-### 🌌 Vibes
 
 <p align="center">
   <img src="https://media0.giphy.com/media/fm6xxZHgHLwxa/giphy.gif" width="400px" /><br><br>
