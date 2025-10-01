@@ -1,4 +1,4 @@
-[<h1 align="center">
+<h1 align="center">
   Hey, I'm Abdulla 🐬
   <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" width="50px">
 </h1>
@@ -11,16 +11,16 @@
 
 ### 🧬 About me
 
-- 🖥 Backend Engineer (Go)  
-- 🛠 Love building scalable, fault-tolerant systems  
-- ⚡ CI/CD, automation, and clean architecture enjoyer  
+ 🖥 Backend Engineer (Go)  
+ 🛠 Love building scalable, fault-tolerant systems  
+⚡ CI/CD, automation, and clean architecture enjoyer  
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,gin,postgresql,redis,jwt,docker,kubernetes,linux,git" /><br>
+  <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,kubernetes,linux,git" /><br>
 </p>
 
 ---
@@ -36,6 +36,5 @@
 
 ### 🌐 Contacts
 
-- 💬 Telegram: [@fast_work999](https://t.me/fast_work999)  
-- 📧 Email: aikaru06@gmail.com  
-](https://skillicons.dev/icons?i=go,postgresql,redis,docker,kubernetes,linux,git)
+ 💬 Telegram: [@fast_work999](https://t.me/fast_work999)  
+ 📧 Email: aikaru06@gmail.com  
