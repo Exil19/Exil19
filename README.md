@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/fm6xxZHgHLwxa/giphy.gif" width="400px" /><br><br>
+  <img src="https://media0.giphy.com/media/fm6xxZHgHLwxa/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R4emk5aWg0c3Q0ZjJib2Jwem5qcmM3ZmRlN2VxaGM1dGpjNmk5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400px" /><br><br>
   <em>"Building systems like synthwave: smooth, fast, evolving. Every commit is a new track."</em>
 </p>
 
